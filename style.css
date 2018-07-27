@@ -36,7 +36,7 @@ p{
 	position: relative;
 	flex: 0 1 225px;
 	flex-shrink: 1;
-	background-image: url("me.jpg");
+	background-image: url("https://raw.githubusercontent.com/riuandg5/riuandg5.github.io/master/me.JPG");
 	background-size: cover;
 }
 .bio-name{
