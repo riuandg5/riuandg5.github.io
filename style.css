@@ -70,7 +70,7 @@ p{
 	        flex: 1 0 auto;
 	padding: 0px 7%;
 	line-height: 1;
-	font-size: 18px;
+	font-size: 16px;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -83,31 +83,31 @@ p{
 	        justify-content: space-evenly;
 }
 .contact-info{
-	padding: 8px 10px;
+	padding: 6px 10px;
 	border-radius: 3px;
-	margin: 2px 0;
+	margin-top: 15px;
 	line-height: 1.2;
-	font-size: 20px;
+	font-size: 18px;
 	background-color: rgba(255,0,0,0.08);
 }
 .contact-info i{
-	font-size: 24px;
-	width: 24px;
-	height: 24px;
+	font-size: 22px;
+	width: 22px;
+	height: 22px;
 	margin-right: 8%;
 	color: red;
 }
 .bio-knowabout{
-	padding: 0 7% 20px 7%;
+	padding: 15px 7%;
 	text-align: justify;
 	line-height: 1;
-	font-size: 18px;
+	font-size: 16px;
 }
 .bio-social{
-	padding: 20px 7%;
+	padding: 15px 7%;
 	text-align: center;
 	line-height: 1;
-	font-size: 30px;
+	font-size: 28px;
 	background-color: rgba(255,0,0,0.1);
 	color: red;
 }
@@ -115,11 +115,11 @@ p{
 	margin: 0 8px;
 }
 .bio-quote p{
-	padding: 20px 7%;
+	padding: 15px 7%;
 	text-align: center;
 	line-height: 1;
 	font-family: 'Qwigley', cursive;
-	font-size: 28px;
+	font-size: 26px;
 	color: #555;
 }
 .cv-content{
